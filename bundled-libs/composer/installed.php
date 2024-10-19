@@ -3,7 +3,7 @@
         'name' => 's9y/serendipity',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '1c75f6692d9e6c69e2152dc4e9348759a3db8daf',
+        'reference' => '3734df1293d92a06d20881f12018113eae617005',
         'type' => 's9y-core',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -109,7 +109,7 @@
         's9y/serendipity' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '1c75f6692d9e6c69e2152dc4e9348759a3db8daf',
+            'reference' => '3734df1293d92a06d20881f12018113eae617005',
             'type' => 's9y-core',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
